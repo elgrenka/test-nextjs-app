@@ -1,3 +1,3 @@
-# Test Next.js app, deploed to vercel.com.
+# Test Next.js app, deployed to vercel.com.
  https://test-nextjs-app-one.vercel.app
 
